@@ -1,6 +1,6 @@
 # 🍔 Jerry's Kitchen
 
-Jerry's Kitchen is a food recipe website built using **HTML** and **CSS**. The website showcases a collection of delicious chicken burger recipes with detailed ingredients, step-by-step cooking instructions, and attractive food images. It features a clean and modern interface, making it easy for users to browse and explore different recipes.
+Jerry's Kitchen is a food recipe page fully responsive website built using **HTML** and **CSS**. The website showcases a collection of delicious chicken burger recipes with detailed ingredients, step-by-step cooking instructions, and attractive food images. It features a clean and modern interface, making it easy for users to browse and explore different recipes.
 
 ---
 
@@ -67,7 +67,6 @@ Add a screenshot of your website homepage here after uploading your project to G
 
 ## 🔮 Future Improvements
 
-- Make the website responsive.
 - Add JavaScript for interactive features.
 - Include a recipe search feature.
 - Create separate pages for each recipe.
